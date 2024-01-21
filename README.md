@@ -22,7 +22,7 @@ Bem-vindo ao README do projeto GitHub User Search App! Este projeto tem como obj
 ## 🌐 Navegação
 
 - **Página Inicial:** [[URL_DO_SITE](https://capellinx.github.io/gitSearch/)]
-- **Página de Usuário Encontrado:** [URL_DO_SITE/usuario]
+- **Página de Usuário Encontrado:** [[URL_DO_SITE/usuario](https://capellinx.github.io/gitSearch/src/pages/profile.html)]
 - **Página de Usuário Não Encontrado (404):** [[URL_DO_SITE/404](https://capellinx.github.io/gitSearch/src/pages/error.html)]
 
 ## 🎨 Design
@@ -47,4 +47,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE.md).
 
 ---
 
-**Desenvolvido por Lucas Capella | @capellaaa7@gmail.com**
+**Desenvolvido por [Lucas Capella](https://www.linkedin.com/in/lucas-capella-608012202/) | capellaaa7@gmail.com**
