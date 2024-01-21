@@ -11,7 +11,7 @@ Bem-vindo ao README do projeto GitHub User Search App! Este projeto tem como obj
 
 ## 💻 Como Usar
 
-1. Acesse a [página inicial](URL_DO_SITE) da aplicação.
+1. Acesse a [página inicial](https://capellinx.github.io/gitSearch/) da aplicação.
 2. Utilize o campo de busca para procurar por um usuário do GitHub.
 3. Se o usuário for encontrado, será exibida uma página com informações detalhadas:
    - 🖼️ Avatar do usuário
@@ -21,9 +21,9 @@ Bem-vindo ao README do projeto GitHub User Search App! Este projeto tem como obj
 
 ## 🌐 Navegação
 
-- **Página Inicial:** [URL_DO_SITE]
+- **Página Inicial:** [[URL_DO_SITE](https://capellinx.github.io/gitSearch/)]
 - **Página de Usuário Encontrado:** [URL_DO_SITE/usuario]
-- **Página de Usuário Não Encontrado (404):** [URL_DO_SITE/404]
+- **Página de Usuário Não Encontrado (404):** [[URL_DO_SITE/404](https://capellinx.github.io/gitSearch/src/pages/error.html)]
 
 ## 🎨 Design
 
