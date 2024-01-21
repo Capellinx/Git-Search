@@ -1,12 +1,10 @@
 const btnSearchUser = document.querySelector('.index__button');
 const inputSearch = document.querySelector('.index__input');
-const token = "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";
 
 const fecthUserData = async (userValue) => {
   const response = await fetch(`https://api.github.com/users/${userValue}`, {
     method: 'GET',
     headers: {
-      "Authorization": `Bearer ${token}`,
       "Content-Type": "application/json; charset=utf-8",
     }
   }).then((res) => {
